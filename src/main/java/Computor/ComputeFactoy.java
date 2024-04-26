@@ -1,3 +1,5 @@
+package Computor;
+
 public class ComputeFactoy {
 
     public static Computable getCompute(String symbol) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
